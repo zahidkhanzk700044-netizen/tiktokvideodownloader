@@ -1,0 +1,7 @@
+{
+  "name": "tiktok-video-downloader",
+  "private": true,
+  "scripts": {
+    "dev": "py -3 \"video donwload.py\""
+  }
+}
